@@ -1,0 +1,10 @@
+vendor/
+storage/
+scripts/
+Vagrantfile
+flarum
+Procfile
+*.php
+*.json
+*.md
+*.lock
